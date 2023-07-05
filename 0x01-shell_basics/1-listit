@@ -1,1 +1,2 @@
-ls lists all the contents in a directory
+#!/bin/bash
+The command that list the contents of a director is ls
